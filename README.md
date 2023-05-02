@@ -35,7 +35,9 @@ For example, **2022_BG_1J_002** describes the **second** attempt at the synthesi
 
 Issues are labelled with labels that describe the experiments. This includes categorisation based on components of the molecular, the nature of the experiment (such as whether it is a new method, scale up or repeat) and other details on status (such as whether a reaction has been left incomplete). The descriptions of these labels can be viewed on the [Labels](https://github.com/KlementineJBS/USYD_PhD_ELN/labels) tab, and all issues with a given label can be found by clicking on the circle icon (see image below). 
 
+<p align="center">
 <img width="373" alt="image" src="https://user-images.githubusercontent.com/78768991/235556001-f1c94541-2656-4279-8802-4c9439c9aa14.png">
+</p>
 
 On the main issues page, issues are sorted into _open_ and _closed_. _Open_ issues represent experiments that are planned or in progress, while _closed_ issues represent experiments that have been completed or abandoned. 
 
@@ -47,6 +49,18 @@ Please be aware that the search bar is autofilled to search only for open issues
 
 <img width="589" alt="image" src="https://user-images.githubusercontent.com/78768991/235556716-04507f9f-c1a1-429f-bafb-12c140298ea8.png">
 
+
+## Common abbreviations 
+
+A number of abbreviations are used in this ELN, including abbreviations of chemicals and solvents that are commonly used in synthetic chemistry (e.g. MeCN for acetonitrile). Some of the more personalised abbreviations are collated here.
+
+| Abbreviation | Meaning |
+|-|-|
+| SM | Starting material |
+| RM | Reaction mixture |
+| cr | crude |
+| F | fraction(s) |
+| C | column |
 
 
 ## Navigating projects
