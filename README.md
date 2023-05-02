@@ -8,13 +8,14 @@ The best way to find a relevant ELN entry is to start in the Wiki where you can 
 
 ## Experiment Identifiers
 
-Experiments conducted for **Open Source Tuberculosis** are identified as follows: _KBSX-Y_
+Experiments conducted for **Open Source Tuberculosis** are identified as follows:
 
-where:
+_KBSX-Y_
 
-KBS is the initials of the experimentalist (Klementine Burrell-Sander)
-X is a number used to identify the molecule
-Y is a number that indicates how many times the reaction has been repeated
+where
+- KBS is the initials of the experimentalist (Klementine Burrell-Sander)
+- X is a number used to identify the molecule
+- Y is a number that indicates how many times the reaction has been repeated
 
 For example, **KBS19-3** indicates the **third** attempt at synthesising molecule **KBS19**
 
@@ -25,9 +26,9 @@ Year of program
 Underscore
 Program the molecule is contributing to e.g. SSP (The University of Sydney's Special Studies program), BG (breaking good core program)
 Underscore
-One letter followed by a number - the main identifier of the molecule that is being synthesised
+One number followed by a letter - the main identifier of the molecule that is being synthesised
 Underscore
-Two numbers which describe the repeat/batch number
+A number which indicates the batch number/number of attempts
 
 For example, **2022_BG_1J_002** describes the **second** attempt at the synthesis of molecule **1J** for the core Breaking Good program ran in **2022**.
 
